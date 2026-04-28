@@ -81,7 +81,7 @@ Advanced travel booking platform with filtering and sorting for bus and flight b
 
 E-commerce platform with cart management, lazy loading, and JWT authentication.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-28a745?style=for-the-badge)](https://your-demo-link.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-28a745?style=for-the-badge)]([https://your-demo-link.com](https://angular-eccomerce-frontend.vercel.app/home))
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/Imtiaz-N)
 
 ---
