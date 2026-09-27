@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-- 🏢 Full Stack Developer at **RedDot Digital Limited** (FinTech Team)
+- 🏢 Full Stack Developer at **Kon SL**
 - 💳 Building live **MFS platforms** — Telecash (Southeast Bank) & Lenden (Prime Bank)
 - 🔧 Specializing in **Angular 18**, **React**, and **Spring Boot Microservices**
 - 🌱 Passionate about scalable architecture, reactive programming & FinTech solutions
